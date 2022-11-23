@@ -1,0 +1,15 @@
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\bin\Debug\net6.0\Add-Flower.exe
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\bin\Debug\net6.0\Add-Flower.deps.json
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\bin\Debug\net6.0\Add-Flower.runtimeconfig.json
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\bin\Debug\net6.0\Add-Flower.dll
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\bin\Debug\net6.0\Add-Flower.pdb
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\Add-Flower.csproj.AssemblyReference.cache
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\Add-Flower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\Add-Flower.AssemblyInfoInputs.cache
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\Add-Flower.AssemblyInfo.cs
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\Add-Flower.csproj.CoreCompileInputs.cache
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\Add-Flower.dll
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\refint\Add-Flower.dll
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\Add-Flower.pdb
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\Add-Flower.genruntimeconfig.cache
+C:\Users\Help\Desktop\Add-Flower\Add-Flower\obj\Debug\net6.0\ref\Add-Flower.dll
